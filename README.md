@@ -16,7 +16,7 @@ YouTube: https://youtu.be/KK5aYnqKmR0
 * [공격] Attack.cs
 * [특수 스킬 공격] Magic.cs, ExplosionParticle.cs
 * [토템] TotemManager.cs, Totem.cs
-* [유뮬] ArtifactManager.cs
+* [유물] ArtifactManager.cs
 * [버프 디버프] 공격력상승, 방어력상승, 힐, 도트데미지, 슬로우 등을 적용 BuffSystem.cs
 * [최적화] 유닛, 데미지폰트, 스킬이펙트등 오브젝트 풀링으로 재사용 MasterFloatingTextPool.cs, MasterObjectPool.cs
 * [옵저버 패턴을 활용 c# delegate] QuestEventManager.cs
