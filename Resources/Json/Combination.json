@@ -1,0 +1,185 @@
+﻿{
+  "version": "1.0",
+  "Items": [
+    {
+      "id": 1,
+      "result": "unit_archer",
+      "artifact": "",
+      "minRarity": "Normal",
+      "material0": "unit_archer",
+      "material1": "unit_archer",
+      "material2": "unit_archer",
+      "material3": "unit_archer"
+    },
+    {
+      "id": 2,
+      "result": "unit_warrior",
+      "artifact": "",
+      "minRarity": "Normal",
+      "material0": "unit_warrior",
+      "material1": "unit_warrior",
+      "material2": "unit_warrior",
+      "material3": "unit_warrior"
+    },
+    {
+      "id": 3,
+      "result": "unit_halberdier",
+      "artifact": "",
+      "minRarity": "Normal",
+      "material0": "unit_halberdier",
+      "material1": "unit_halberdier",
+      "material2": "unit_halberdier",
+      "material3": "unit_halberdier"
+    },
+    {
+      "id": 4,
+      "result": "unit_barbarian",
+      "artifact": "",
+      "minRarity": "Normal",
+      "material0": "unit_barbarian",
+      "material1": "unit_barbarian",
+      "material2": "unit_barbarian",
+      "material3": "unit_barbarian"
+    },
+    {
+      "id": 5,
+      "result": "unit_monk",
+      "artifact": "",
+      "minRarity": "Normal",
+      "material0": "unit_monk",
+      "material1": "unit_monk",
+      "material2": "unit_monk",
+      "material3": "unit_monk"
+    },
+    {
+      "id": 6,
+      "result": "unit_swordmaster",
+      "artifact": "",
+      "minRarity": "Normal",
+      "material0": "unit_swordmaster",
+      "material1": "unit_swordmaster",
+      "material2": "unit_swordmaster",
+      "material3": "unit_swordmaster"
+    },
+    {
+      "id": 7,
+      "result": "unit_highwarrior",
+      "artifact": "",
+      "minRarity": "Epic",
+      "material0": "unit_warrior",
+      "material1": "unit_warrior",
+      "material2": "unit_barbarian",
+      "material3": "unit_halberdier"
+    },
+    {
+      "id": 8,
+      "result": "unit_highmonk",
+      "artifact": "",
+      "minRarity": "Epic",
+      "material0": "unit_monk",
+      "material1": "unit_monk",
+      "material2": "unit_archer",
+      "material3": "unit_archer"
+    },
+    {
+      "id": 9,
+      "result": "unit_highhalberdier",
+      "artifact": "",
+      "minRarity": "Epic",
+      "material0": "unit_halberdier",
+      "material1": "unit_halberdier",
+      "material2": "unit_warrior",
+      "material3": "unit_swordmaster"
+    },
+    {
+      "id": 10,
+      "result": "unit_higharcher",
+      "artifact": "",
+      "minRarity": "Epic",
+      "material0": "unit_archer",
+      "material1": "unit_archer",
+      "material2": "unit_monk",
+      "material3": "unit_monk"
+    },
+    {
+      "id": 11,
+      "result": "unit_highbarbarian",
+      "artifact": "",
+      "minRarity": "Epic",
+      "material0": "unit_barbarian",
+      "material1": "unit_barbarian",
+      "material2": "unit_swordmaster",
+      "material3": "unit_halberdier"
+    },
+    {
+      "id": 12,
+      "result": "unit_highswordmaster",
+      "artifact": "",
+      "minRarity": "Epic",
+      "material0": "unit_swordmaster",
+      "material1": "unit_swordmaster",
+      "material2": "unit_barbarian",
+      "material3": "unit_warrior"
+    },
+    {
+      "id": 13,
+      "result": "unit_ultimatebarbarian",
+      "artifact": "임프의 뿔",
+      "minRarity": "Epic",
+      "material0": "unit_barbarian",
+      "material1": "unit_barbarian",
+      "material2": "unit_barbarian",
+      "material3": "unit_barbarian"
+    },
+    {
+      "id": 14,
+      "result": "unit_ultimateswordmaster",
+      "artifact": "닌자 가면",
+      "minRarity": "Epic",
+      "material0": "unit_swordmaster",
+      "material1": "unit_swordmaster",
+      "material2": "unit_swordmaster",
+      "material3": "unit_swordmaster"
+    },
+    {
+      "id": 15,
+      "result": "unit_ultimatemonk",
+      "artifact": "금관",
+      "minRarity": "Epic",
+      "material0": "unit_monk",
+      "material1": "unit_monk",
+      "material2": "unit_monk",
+      "material3": "unit_monk"
+    },
+    {
+      "id": 16,
+      "result": "unit_ultimatewarrior",
+      "artifact": "불꽃",
+      "minRarity": "Epic",
+      "material0": "unit_warrior",
+      "material1": "unit_warrior",
+      "material2": "unit_warrior",
+      "material3": "unit_warrior"
+    },
+    {
+      "id": 17,
+      "result": "unit_ultimatearcher",
+      "artifact": "날개",
+      "minRarity": "Epic",
+      "material0": "unit_archer",
+      "material1": "unit_archer",
+      "material2": "unit_archer",
+      "material3": "unit_archer"
+    },
+    {
+      "id": 18,
+      "result": "unit_ultimatehalberdier",
+      "artifact": "금조각",
+      "minRarity": "Epic",
+      "material0": "unit_halberdier",
+      "material1": "unit_halberdier",
+      "material2": "unit_halberdier",
+      "material3": "unit_halberdier"
+    }
+  ]
+}

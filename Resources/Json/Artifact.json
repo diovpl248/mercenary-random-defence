@@ -1,0 +1,236 @@
+﻿{
+  "version": "1.0",
+  "Items": [
+    {
+      "id": 1,
+      "artifact_name": "나무 단검",
+      "type": "DamageUP",
+      "rarity": "Normal",
+      "desc": "나무로 만들어진 평범한 검이다.",
+      "amount": 1,
+      "sprite_name": "artifact_icon",
+      "sprite_number": 295
+    },
+    {
+      "id": 2,
+      "artifact_name": "은빛 단검",
+      "type": "DamageUP",
+      "rarity": "Rare",
+      "desc": "은으로 만들어진 검이다.",
+      "amount": 3,
+      "sprite_name": "artifact_icon",
+      "sprite_number": 296
+    },
+    {
+      "id": 3,
+      "artifact_name": "금빛 단검",
+      "type": "DamageUP",
+      "rarity": "Unique",
+      "desc": "금으로 만들어진 검이다. 꽤나 좋아보인다.",
+      "amount": 5,
+      "sprite_name": "artifact_icon",
+      "sprite_number": 298
+    },
+    {
+      "id": 4,
+      "artifact_name": "나무 방패",
+      "type": "DefenseUP",
+      "rarity": "Normal",
+      "desc": "나무로 만들어진 평범한 방패다.",
+      "amount": 1,
+      "sprite_name": "artifact_icon",
+      "sprite_number": 245
+    },
+    {
+      "id": 5,
+      "artifact_name": "은빛 방패",
+      "type": "DefenseUP",
+      "rarity": "Rare",
+      "desc": "은으로 만들어진 방패다.",
+      "amount": 3,
+      "sprite_name": "artifact_icon",
+      "sprite_number": 247
+    },
+    {
+      "id": 6,
+      "artifact_name": "금빛 방패",
+      "type": "DefenseUP",
+      "rarity": "Unique",
+      "desc": "금으로 만들어진 방패다. 꽤나 좋아보인다.",
+      "amount": 5,
+      "sprite_name": "artifact_icon",
+      "sprite_number": 246
+    },
+    {
+      "id": 7,
+      "artifact_name": "흡혈 목걸이",
+      "type": "BloodSucking",
+      "rarity": "Unique",
+      "desc": "피의 기운이 담겨있는 목걸이다.",
+      "amount": 1,
+      "sprite_name": "artifact_icon",
+      "sprite_number": 187
+    },
+    {
+      "id": 8,
+      "artifact_name": "에메랄드보석",
+      "type": "GoldUP",
+      "rarity": "Rare",
+      "desc": "아름다운 녹색빛이 나는 보석이다.",
+      "amount": 5,
+      "sprite_name": "artifact_icon",
+      "sprite_number": 111
+    },
+    {
+      "id": 9,
+      "artifact_name": "주문서",
+      "type": "TotemCoolDown",
+      "rarity": "Unique",
+      "desc": "알 수 없는 문자들로 이루어진 주문서이다.",
+      "amount": 5,
+      "sprite_name": "artifact_icon",
+      "sprite_number": 232
+    },
+    {
+      "id": 11,
+      "artifact_name": "나무 반지",
+      "type": "CriticalPercentUP",
+      "rarity": "Normal",
+      "desc": "나무로 만들어진 평범한 반지다.",
+      "amount": 1,
+      "sprite_name": "artifact_icon",
+      "sprite_number": 227
+    },
+    {
+      "id": 12,
+      "artifact_name": "은빛 반지",
+      "type": "CriticalPercentUP",
+      "rarity": "Rare",
+      "desc": "은으로 만들어진 반지다.",
+      "amount": 3,
+      "sprite_name": "artifact_icon",
+      "sprite_number": 228
+    },
+    {
+      "id": 13,
+      "artifact_name": "금빛 반지",
+      "type": "CriticalPercentUP",
+      "rarity": "Unique",
+      "desc": "금으로 만들어진 반지다. 꽤나 좋아보인다.",
+      "amount": 5,
+      "sprite_name": "artifact_icon",
+      "sprite_number": 230
+    },
+    {
+      "id": 14,
+      "artifact_name": "임프의 뿔",
+      "type": "Combination",
+      "rarity": "Legend",
+      "desc": "야만용사와 조합하여 더 강력한 유닛을 만들 수 있다.",
+      "amount": 1,
+      "sprite_name": "artifact_icon2",
+      "sprite_number": 3
+    },
+    {
+      "id": 15,
+      "artifact_name": "닌자 가면",
+      "type": "Combination",
+      "rarity": "Legend",
+      "desc": "검객과 조합하여 더 강력한 유닛을 만들 수 있다.",
+      "amount": 1,
+      "sprite_name": "artifact_icon2",
+      "sprite_number": 4
+    },
+    {
+      "id": 16,
+      "artifact_name": "금조각",
+      "type": "Combination",
+      "rarity": "Legend",
+      "desc": "미늘창병과 조합하여 더 강력한 유닛을 만들 수 있다.",
+      "amount": 1,
+      "sprite_name": "artifact_icon",
+      "sprite_number": 161
+    },
+    {
+      "id": 17,
+      "artifact_name": "날개",
+      "type": "Combination",
+      "rarity": "Legend",
+      "desc": "궁수와 조합하여 더 강력한 유닛을 만들 수 있다.",
+      "amount": 1,
+      "sprite_name": "artifact_icon2",
+      "sprite_number": 5
+    },
+    {
+      "id": 18,
+      "artifact_name": "금관",
+      "type": "Combination",
+      "rarity": "Legend",
+      "desc": "수도승과 조합하여 더 강력한 유닛을 만들 수 있다.",
+      "amount": 1,
+      "sprite_name": "artifact_icon2",
+      "sprite_number": 0
+    },
+    {
+      "id": 19,
+      "artifact_name": "불꽃",
+      "type": "Combination",
+      "rarity": "Legend",
+      "desc": "전사와 조합하여 더 강력한 유닛을 만들 수 있다.",
+      "amount": 1,
+      "sprite_name": "artifact_icon2",
+      "sprite_number": 1
+    },
+    {
+      "id": 20,
+      "artifact_name": "민트초코",
+      "type": "TotemCoolDown",
+      "rarity": "Legend",
+      "desc": "싫어해도 그냥 먹자. 맛있다.",
+      "amount": 6,
+      "sprite_name": "easter_icon",
+      "sprite_number": 1
+    },
+    {
+      "id": 21,
+      "artifact_name": "풍뎅이",
+      "type": "DefenseUP",
+      "rarity": "Legend",
+      "desc": "매운것에 내성이 강하다.",
+      "amount": 6,
+      "sprite_name": "easter_icon",
+      "sprite_number": 0
+    },
+    {
+      "id": 22,
+      "artifact_name": "화성",
+      "type": "GoldUP",
+      "rarity": "Legend",
+      "desc": "행성이다.",
+      "amount": 6,
+      "sprite_name": "easter_icon",
+      "sprite_number": 3
+    },
+    {
+      "id": 23,
+      "artifact_name": "주먹",
+      "type": "DamageUP",
+      "rarity": "Legend",
+      "desc": "강해보이는 주먹이지만 물주먹이다.",
+      "amount": 6,
+      "sprite_name": "easter_icon",
+      "sprite_number": 4
+    },
+    {
+      "id": 24,
+      "artifact_name": "파인애플 피자",
+      "type": "CriticalPercentUP",
+      "rarity": "Legend",
+      "desc": "황홀하다.",
+      "amount": 6,
+      "sprite_name": "easter_icon",
+      "sprite_number": 2
+
+    }
+  ]
+}

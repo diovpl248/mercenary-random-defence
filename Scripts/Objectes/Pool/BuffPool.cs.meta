@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b923f3d8325815143bb2ef34c636f01d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Buff: {fileID: 8873462054237618658, guid: 8577880c385c73f40a77a83b69a2ead9, type: 3}
+  - buffPanel: {fileID: 1776568544646170806, guid: 0262717289c2fb64183cd600dd3bba0d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
