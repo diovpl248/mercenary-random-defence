@@ -5,7 +5,26 @@
 
 ![인게임](https://github.com/diovpl248/mercenary-random-defence/blob/master/in-game.PNG?raw=true)
 
-YouTube: https://youtu.be/KK5aYnqKmR0
+---
+
+> 팀 프로젝트
+
+- 제작 인원: 5명
+
+> 개발 환경
+
+- 개발 툴: Unity 2018, Visual Studio 2018
+- 개발 언어: C#
+- 플랫폼: Android
+
+> 제작 기간
+- 2018.11 ~ 2019.03 (4개월)
+
+> 역할
+- 팀장
+- 주요 UI 구성(메인메뉴, 뽑기, 조합결과, 유물선택, 퀵슬롯 등)
+- 주요 모듈 개발(캐릭터 클래스, 전투 로직, 토템 클래스, 유물 클래스, 퀘스트 등)
+- 부가 시스템 개발(세이브&로드, JSON데이터 로드)
 
 ---
 
@@ -22,3 +41,6 @@ YouTube: https://youtu.be/KK5aYnqKmR0
 * [옵저버 패턴을 활용 c# delegate] QuestEventManager.cs
 * [세이브 로드] 바이너리 파일로 세이브 및 로드 SaveSysttem.cs
 * [UI] Async씬로딩 Loading.cs
+
+
+YouTube: https://youtu.be/KK5aYnqKmR0
