@@ -13,7 +13,7 @@
 
 > 개발 환경
 
-- 개발 툴: Unity 2018, Visual Studio 2018
+- 개발 툴: Unity 2018, Visual Studio 2017
 - 개발 언어: C#
 - 플랫폼: Android
 
